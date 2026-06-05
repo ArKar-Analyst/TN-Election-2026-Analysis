@@ -45,12 +45,12 @@ constituency-level seat flips, and the origins of TVK's
   — regional breakdown
 - `JOIN winners_2021 & winners_2026 ON ac_number` 
   — flip detection
-- `SUM(votes)/total` with `FULL OUTER JOIN` 
+- `SUM(votes)/total` with `UNION ALL` 
   — vote share decomposition
 
 ## Deliverables
 - 📊 [Stakeholder Deck (PDF)](presentation/TN_Election_2026_AtliQ.pdf)
-- 🎥 [Video Walkthrough](#) ← paste your YouTube/Drive link here
+- 🎥 [Video Walkthrough](https://youtu.be/XbSYKmwe09w?si=gLPWMaELG5D1wSPg) 
 - 🔗 [LinkedIn Post](#) ← paste after publishing
 
 ## Data Limitations
