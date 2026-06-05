@@ -51,7 +51,7 @@ constituency-level seat flips, and the origins of TVK's
 ## Deliverables
 - 📊 [Stakeholder Deck (PDF)](presentation/TN_Election_2026_AtliQ.pdf)
 - 🎥 [Video Walkthrough](https://youtu.be/XbSYKmwe09w?si=gLPWMaELG5D1wSPg) 
-- 🔗 [LinkedIn Post](#) ← paste after publishing
+- 🔗 [LinkedIn Post](https://www.linkedin.com/posts/arkadeepkar_cb-pdf-ugcPost-7468614176459059201-idKg/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGEvavYBJ0tdMzkIklwNm3lno2Yhvhk97Ho) 
 
 ## Data Limitations
 - Vote share decomposition uses aggregate 
