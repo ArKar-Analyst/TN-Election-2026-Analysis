@@ -33,7 +33,7 @@ constituency-level seat flips, and the origins of TVK's
 
 ## Reproduction Steps
 1. Clone this repository
-2. Load `data/tn_election_2026_raw.csv` into any 
+2. Load `data/` files into any 
    SQL environment (MySQL / PostgreSQL / SQLite)
 3. Run queries in order from `sql/tn_election_analysis.sql`
 4. All figures in the deck are reproducible from 
